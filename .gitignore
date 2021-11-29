@@ -1,0 +1,6 @@
+calc
+postfixcalc 
+infixcalc 
+*.o 
+*~ 
+code.tar
